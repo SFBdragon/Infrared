@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfraredEngine", "Infrared\InfraredEngine.csproj", "{7F5628DA-7A9E-4B47-9A0D-EC3A80C1B282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F5628DA-7A9E-4B47-9A0D-EC3A80C1B282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5628DA-7A9E-4B47-9A0D-EC3A80C1B282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5628DA-7A9E-4B47-9A0D-EC3A80C1B282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5628DA-7A9E-4B47-9A0D-EC3A80C1B282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D699922B-FDAD-4003-BFB1-D75E2562B377}
+	EndGlobalSection
+EndGlobal
